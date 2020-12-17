@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Fraga, I'm from México and I'm a computational systems engineering student at the Escuela Superior de Cómputo from the Instituto Politécnico Nacional. I'm
-interested in fields such as statistics, machine learning and algorithms, I'm currently working as a Student in IBM.
+interested in fields such as statistics, machine learning and algorithms, I'm currently enrolled in the Students at IBM program.
 
 
 ![RicFraga's github stats](https://github-readme-stats.vercel.app/api?username=RicFraga&show_icons=true&theme=synthwave)
